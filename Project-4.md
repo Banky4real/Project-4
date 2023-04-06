@@ -20,7 +20,9 @@
 
 ### NPM Installation and body parser
 `sudo apt install -y npm`
+
 `sudo npm install body-parser`
+
 ![NPM-Installed](./Images/npm-body-parser-installed.png)
 
 ## Step 2
